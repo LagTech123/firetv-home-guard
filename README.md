@@ -2,6 +2,10 @@
 
 A tiny accessibility service for Fire TV that starts your chosen launcher as soon as Amazon's home screen appears, without the usual delay.
 
+## About this project
+
+This project was written by Claude, an AI assistant made by Anthropic, working with its owner (LagTech), who directed the work and tested it on their own Fire TV. As with any code from the internet, read it before you run it on your own device.
+
 ## The problem
 
 On Fire OS you cannot set a default launcher: Amazon's home is a protected package and always handles the HOME key first. Third-party launchers such as Projectivy only get to take over afterwards, and Android holds back app launches for about 5 seconds after HOME (`APP_SWITCH_DELAY_TIME`). The result is several seconds of Amazon's home before your launcher appears.
