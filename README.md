@@ -21,7 +21,7 @@ The technique is the one described in the documentation of [dumbtv](https://gith
 
 ## Status
 
-Tested on one Fire TV running Fire OS 7 (Android 9) with Projectivy Launcher. Expect to adapt it for other builds. It does not cover Fire OS 6, which refuses third-party accessibility services. It does not hide Amazon's home, so a brief flash of it can show before your launcher appears.
+Tested only on the AFTEU014 (Fire OS 7, Android 9) with Projectivy Launcher. It has not been tested on any other device or Fire OS version, so expect to adapt it for other builds. It does not cover Fire OS 6, which refuses third-party accessibility services. It does not hide Amazon's home, so a brief flash of it can show before your launcher appears.
 
 ## Build
 
