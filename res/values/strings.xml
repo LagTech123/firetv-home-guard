@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Guard</string>
+    <string name="service_desc">Starts your chosen home screen as soon as Amazon\'s home appears. Sees window changes from Amazon\'s launcher only and reads no screen content.</string>
+</resources>
